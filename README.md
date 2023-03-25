@@ -3,6 +3,8 @@
 
 A fullstack kitchen system app made in **Flutter** with **Firebase** to enable kitchen staff to review and track orders received from the Food Ordering App. The app allows staff to view incoming order status, order lists, order history, and statistical order reports.
 
+![Screenshot 2023-03-25 154209](https://user-images.githubusercontent.com/90374083/227704380-fbb159ac-2c49-4421-a9a5-4651cd21c126.jpg)
+
 Demo: https://kitchen-management-138cf.web.app/
 
 ## Features 🚀
